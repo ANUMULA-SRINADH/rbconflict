@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is rebase conflict.welcome to bec
+=======
+hello welcome to bec
+>>>>>>> 317c4c7 (this is file2 commit)
